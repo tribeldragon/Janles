@@ -1,0 +1,7 @@
+c:\users\ossam\documents\visual studio 2013\Projects\Janles1\Janles1\Janles1\obj\x86\Debug\Janles1.csprojResolveAssemblyReference.cache
+c:\users\ossam\documents\visual studio 2013\Projects\Janles1\Janles1\Janles1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\ossam\documents\visual studio 2013\Projects\Janles1\Janles1\Janles1\bin\x86\Debug\Janles1.exe
+c:\users\ossam\documents\visual studio 2013\Projects\Janles1\Janles1\Janles1\bin\x86\Debug\Janles1.pdb
+c:\users\ossam\documents\visual studio 2013\Projects\Janles1\Janles1\Janles1\obj\x86\Debug\Janles1.exe
+c:\users\ossam\documents\visual studio 2013\Projects\Janles1\Janles1\Janles1\obj\x86\Debug\Janles1.pdb
+c:\users\ossam\documents\visual studio 2013\Projects\Janles1\Janles1\Janles1\bin\x86\Debug\Content\bork.xnb
